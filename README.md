@@ -1,1 +1,3 @@
 # zoomandmove
+
+YOU WILL ZOOM AND MOVE ANY COMPONENT
